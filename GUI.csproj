@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\Microsoft.ML.FastTree.3.0.1\build\netstandard2.0\Microsoft.ML.FastTree.props" Condition="Exists('packages\Microsoft.ML.FastTree.3.0.1\build\netstandard2.0\Microsoft.ML.FastTree.props')" />
+  <Import Project="packages\Microsoft.ML.3.0.1\build\netstandard2.0\Microsoft.ML.props" Condition="Exists('packages\Microsoft.ML.3.0.1\build\netstandard2.0\Microsoft.ML.props')" />
+  <Import Project="packages\Microsoft.ML.CpuMath.3.0.1\build\netstandard2.0\Microsoft.ML.CpuMath.props" Condition="Exists('packages\Microsoft.ML.CpuMath.3.0.1\build\netstandard2.0\Microsoft.ML.CpuMath.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8F616479-4678-469F-A39C-633819CE6C01}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>EcoProject</RootNamespace>
+    <AssemblyName>EcoProject</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>packages\BouncyCastle.Cryptography.2.4.0\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="DynamicObj, Version=2.0.0.0, Culture=neutral, PublicKeyToken=7000be826734fb42, processorArchitecture=MSIL">
+      <HintPath>packages\DynamicObj.2.0.0\lib\netstandard2.0\DynamicObj.dll</HintPath>
+    </Reference>
+    <Reference Include="FSharp.Core, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\FSharp.Core.6.0.5\lib\netstandard2.0\FSharp.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.4, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\iTextSharp.5.5.13.4\lib\net461\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MailKit, Version=4.8.0.0, Culture=neutral, PublicKeyToken=4e064fe7c44a8f1b, processorArchitecture=MSIL">
+      <HintPath>packages\MailKit.4.8.0\lib\net47\MailKit.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.Numerics, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.Numerics.8.0.0\lib\net462\Microsoft.Bcl.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ML.3.0.1\lib\netstandard2.0\Microsoft.ML.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ML.3.0.1\lib\netstandard2.0\Microsoft.ML.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML.CpuMath, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ML.CpuMath.3.0.1\lib\netstandard2.0\Microsoft.ML.CpuMath.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ML.3.0.1\lib\netstandard2.0\Microsoft.ML.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML.DataView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ML.DataView.3.0.1\lib\netstandard2.0\Microsoft.ML.DataView.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML.FastTree, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ML.FastTree.3.0.1\lib\netstandard2.0\Microsoft.ML.FastTree.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML.KMeansClustering, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ML.3.0.1\lib\netstandard2.0\Microsoft.ML.KMeansClustering.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML.PCA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ML.3.0.1\lib\netstandard2.0\Microsoft.ML.PCA.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML.StandardTrainers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ML.3.0.1\lib\netstandard2.0\Microsoft.ML.StandardTrainers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ML.Transforms, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ML.3.0.1\lib\netstandard2.0\Microsoft.ML.Transforms.dll</HintPath>
+    </Reference>
+    <Reference Include="MimeKit, Version=4.8.0.0, Culture=neutral, PublicKeyToken=bede1c8a46c66814, processorArchitecture=MSIL">
+      <HintPath>packages\MimeKit.4.8.0\lib\net47\MimeKit.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Plotly.NET, Version=3.0.0.0, Culture=neutral, PublicKeyToken=c98c6d87097b7615, processorArchitecture=MSIL">
+      <HintPath>packages\Plotly.NET.3.0.1\lib\netstandard2.0\Plotly.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.CodeDom, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.CodeDom.4.5.0\lib\net461\System.CodeDom.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Collections.Immutable.1.5.0\lib\netstandard2.0\System.Collections.Immutable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.1.3, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Data.SqlClient.4.8.3\lib\net461\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Formats.Asn1, Version=8.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Formats.Asn1.8.0.1\lib\net462\System.Formats.Asn1.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Tensors, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Tensors.8.0.0\lib\net462\System.Numerics.Tensors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Threading.Channels, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Channels.4.7.1\lib\net461\System.Threading.Channels.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add_customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_customer.Designer.cs">
+      <DependentUpon>Add_customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Orders.Designer.cs">
+      <DependentUpon>Add_Orders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dashboard.Designer.cs">
+      <DependentUpon>dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FogetPassword\FogetPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FogetPassword\FogetPass.Designer.cs">
+      <DependentUpon>FogetPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FogetPassword\ChangePass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FogetPassword\ChangePass.Designer.cs">
+      <DependentUpon>ChangePass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhap_lieu\chi_tieu_khi_thai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhap_lieu\chi_tieu_khi_thai.Designer.cs">
+      <DependentUpon>chi_tieu_khi_thai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhap_lieu\chi_tieu_khong_khi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhap_lieu\chi_tieu_khong_khi.Designer.cs">
+      <DependentUpon>chi_tieu_khong_khi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhap_lieu\chi_tieu_nuoc_mat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhap_lieu\chi_tieu_nuoc_mat.Designer.cs">
+      <DependentUpon>chi_tieu_nuoc_mat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhap_lieu\hien_truong_khi_thai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhap_lieu\hien_truong_khi_thai.Designer.cs">
+      <DependentUpon>hien_truong_khi_thai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhap_lieu\hien_truong_khong_khi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhap_lieu\hien_truong_khong_khi.Designer.cs">
+      <DependentUpon>hien_truong_khong_khi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhap_lieu\hien_truong_nuoc_mat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhap_lieu\hien_truong_nuoc_mat.Designer.cs">
+      <DependentUpon>hien_truong_nuoc_mat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhap_lieu\phan_tich_khi_thai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhap_lieu\phan_tich_khi_thai.Designer.cs">
+      <DependentUpon>phan_tich_khi_thai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhap_lieu\phan_tich_khong_khi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhap_lieu\phan_tich_khong_khi.Designer.cs">
+      <DependentUpon>phan_tich_khong_khi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhap_lieu\phan_tich_nuoc_mat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhap_lieu\phan_tich_nuoc_mat.Designer.cs">
+      <DependentUpon>phan_tich_nuoc_mat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Update_content.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_content.Designer.cs">
+      <DependentUpon>Update_content.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update_customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_customer.Designer.cs">
+      <DependentUpon>Update_customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_control\uc_customer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="user_control\uc_customer.Designer.cs">
+      <DependentUpon>uc_customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_control\uc_historyand_udit_log.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="user_control\uc_historyand_udit_log.Designer.cs">
+      <DependentUpon>uc_historyand_udit_log.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_control\uc_home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="user_control\uc_home.Designer.cs">
+      <DependentUpon>uc_home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_control\uc_lab_analysis_management1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="user_control\uc_lab_analysis_management1.Designer.cs">
+      <DependentUpon>uc_lab_analysis_management1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_control\uc_notifications.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="user_control\uc_notifications.Designer.cs">
+      <DependentUpon>uc_notifications.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_control\uc_order.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="user_control\uc_order.Designer.cs">
+      <DependentUpon>uc_order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_control\uc_reports.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="user_control\uc_reports.Designer.cs">
+      <DependentUpon>uc_reports.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Add_customer.resx">
+      <DependentUpon>Add_customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Orders.resx">
+      <DependentUpon>Add_Orders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dashboard.resx">
+      <DependentUpon>dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FogetPassword\ChangePass.resx">
+      <DependentUpon>ChangePass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FogetPassword\FogetPass.resx">
+      <DependentUpon>FogetPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhap_lieu\chi_tieu_khi_thai.resx">
+      <DependentUpon>chi_tieu_khi_thai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhap_lieu\chi_tieu_khong_khi.resx">
+      <DependentUpon>chi_tieu_khong_khi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhap_lieu\chi_tieu_nuoc_mat.resx">
+      <DependentUpon>chi_tieu_nuoc_mat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhap_lieu\hien_truong_khi_thai.resx">
+      <DependentUpon>hien_truong_khi_thai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhap_lieu\hien_truong_khong_khi.resx">
+      <DependentUpon>hien_truong_khong_khi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhap_lieu\hien_truong_nuoc_mat.resx">
+      <DependentUpon>hien_truong_nuoc_mat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhap_lieu\phan_tich_khi_thai.resx">
+      <DependentUpon>phan_tich_khi_thai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhap_lieu\phan_tich_khong_khi.resx">
+      <DependentUpon>phan_tich_khong_khi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhap_lieu\phan_tich_nuoc_mat.resx">
+      <DependentUpon>phan_tich_nuoc_mat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_content.resx">
+      <DependentUpon>Update_content.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_customer.resx">
+      <DependentUpon>Update_customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_control\uc_customer.resx">
+      <DependentUpon>uc_customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_control\uc_historyand_udit_log.resx">
+      <DependentUpon>uc_historyand_udit_log.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_control\uc_home.resx">
+      <DependentUpon>uc_home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_control\uc_lab_analysis_management1.resx">
+      <DependentUpon>uc_lab_analysis_management1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_control\uc_notifications.resx">
+      <DependentUpon>uc_notifications.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_control\uc_order.resx">
+      <DependentUpon>uc_order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_control\uc_reports.resx">
+      <DependentUpon>uc_reports.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Fonts\RBT\Roboto-Black.ttf" />
+    <None Include="Fonts\RBT\Roboto-BlackItalic.ttf" />
+    <None Include="Fonts\RBT\Roboto-Bold.ttf" />
+    <None Include="Fonts\RBT\Roboto-BoldItalic.ttf" />
+    <None Include="Fonts\RBT\Roboto-Italic.ttf" />
+    <None Include="Fonts\RBT\Roboto-Light.ttf" />
+    <None Include="Fonts\RBT\Roboto-LightItalic.ttf" />
+    <None Include="Fonts\RBT\Roboto-Medium.ttf" />
+    <None Include="Fonts\RBT\Roboto-MediumItalic.ttf" />
+    <None Include="Fonts\RBT\Roboto-Regular.ttf" />
+    <None Include="Fonts\RBT\Roboto-Thin.ttf" />
+    <None Include="Fonts\RBT\Roboto-ThinItalic.ttf" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database\QuanTracMoiTruong.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Database\QuanTracMoiTruong_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>QuanTracMoiTruong.mdf</DependentUpon>
+    </Content>
+    <Content Include="Fonts\RBT\LICENSE.txt" />
+    <Content Include="logo.png" />
+    <Content Include="Logo_CongTy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="BLL\BLL.csproj">
+      <Project>{a084e8a9-9fd2-407d-bfba-bbcf6b99c183}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\Microsoft.ML.CpuMath.3.0.1\build\netstandard2.0\Microsoft.ML.CpuMath.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.ML.CpuMath.3.0.1\build\netstandard2.0\Microsoft.ML.CpuMath.props'))" />
+    <Error Condition="!Exists('packages\Microsoft.ML.3.0.1\build\netstandard2.0\Microsoft.ML.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.ML.3.0.1\build\netstandard2.0\Microsoft.ML.props'))" />
+    <Error Condition="!Exists('packages\Microsoft.ML.3.0.1\build\netstandard2.0\Microsoft.ML.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.ML.3.0.1\build\netstandard2.0\Microsoft.ML.targets'))" />
+    <Error Condition="!Exists('packages\Microsoft.ML.FastTree.3.0.1\build\netstandard2.0\Microsoft.ML.FastTree.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.ML.FastTree.3.0.1\build\netstandard2.0\Microsoft.ML.FastTree.props'))" />
+  </Target>
+  <Import Project="packages\Microsoft.ML.3.0.1\build\netstandard2.0\Microsoft.ML.targets" Condition="Exists('packages\Microsoft.ML.3.0.1\build\netstandard2.0\Microsoft.ML.targets')" />
+</Project>

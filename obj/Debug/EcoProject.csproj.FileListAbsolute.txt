@@ -1,0 +1,2032 @@
+D:\OneDrive\Máy tính\EcoProject\bin\Debug\EcoProject.exe.config
+D:\OneDrive\Máy tính\EcoProject\bin\Debug\EcoProject.exe
+D:\OneDrive\Máy tính\EcoProject\bin\Debug\EcoProject.pdb
+D:\OneDrive\Máy tính\EcoProject\bin\Debug\Guna.UI2.dll
+D:\OneDrive\Máy tính\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\OneDrive\Máy tính\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\OneDrive\Máy tính\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\OneDrive\Máy tính\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\OneDrive\Máy tính\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\OneDrive\Máy tính\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\OneDrive\Máy tính\EcoProject\obj\Debug\EcoProject.exe
+D:\OneDrive\Máy tính\EcoProject\obj\Debug\EcoProject.pdb
+D:\OneDrive\Máy tính\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\OneDrive\Máy tính\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\OneDrive\Máy tính\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\OneDrive\Máy tính\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\OneDrive\Máy tính\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+D:\OneDrive\Máy tính\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\OneDrive\Máy tính\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management.resources
+D:\OneDrive\Máy tính\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\OneDrive\Máy tính\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\EcoProject.exe.config
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\Guna.UI2.dll
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+E:\EcoProject\bin\Debug\EcoProject.exe.config
+E:\EcoProject\bin\Debug\EcoProject.exe
+E:\EcoProject\bin\Debug\EcoProject.pdb
+E:\EcoProject\bin\Debug\Guna.UI2.dll
+E:\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+E:\EcoProject\obj\Debug\EcoProject.dashboard.resources
+E:\EcoProject\obj\Debug\EcoProject.Form1.resources
+E:\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+E:\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+E:\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+E:\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+E:\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+E:\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+E:\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+E:\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+E:\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+E:\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+E:\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+E:\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+E:\EcoProject\obj\Debug\EcoProject.exe
+E:\EcoProject\obj\Debug\EcoProject.pdb
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.exe
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.pdb
+C:\Users\ACER\Downloads\EcoProject\bin\Debug\Guna.UI2.dll
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.dashboard.resources
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.Form1.resources
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\EcoProject\bin\Debug\EcoProject.exe.config
+C:\Users\ACER\Downloads\EcoProject\bin\Debug\EcoProject.exe
+C:\Users\ACER\Downloads\EcoProject\bin\Debug\EcoProject.pdb
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+C:\Users\ACER\Downloads\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\bin\Debug\EcoProject.exe.config
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\bin\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\bin\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\bin\Debug\Guna.UI2.dll
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\3rd\HKI\CNPM\ECo22\EcoProject1\EcoProject\obj\Debug\EcoProject.FogetPassword.ChangePass.resources
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.exe
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.pdb
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\bin\Debug\EcoProject.exe.config
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\bin\Debug\EcoProject.exe
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\bin\Debug\EcoProject.pdb
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\bin\Debug\Guna.UI2.dll
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.dashboard.resources
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.FogetPassword.ChangePass.resources
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.Form1.resources
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\EcoProject1\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\bin\Debug\EcoProject.exe.config
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\bin\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\bin\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\bin\Debug\Guna.UI2.dll
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.ChangePass.resources
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\EcNew\EcoProject\EcoProject\obj\Debug\EcoProject.pdb
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\EcoProject.exe.config
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\EcoProject.exe
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\EcoProject.pdb
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\Guna.UI2.dll
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.exe
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.pdb
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\bin\Debug\EcoProject.exe.config
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\bin\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\bin\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\bin\Debug\Guna.UI2.dll
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.ChangePass.resources
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\EcoProjectLL\EcoProject\EcoProject\obj\Debug\EcoProject.pdb
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.exe
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.pdb
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.exe.config
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.exe
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.pdb
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\bin\Debug\Guna.UI2.dll
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.dashboard.resources
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.ChangePass.resources
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Form1.resources
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\EcoProject (1)\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.exe.config
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.exe
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.pdb
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\bin\Debug\Guna.UI2.dll
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.dashboard.resources
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.ChangePass.resources
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Form1.resources
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.exe
+C:\Users\Huydo\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.exe.config
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\bin\Debug\Guna.UI2.dll
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.ChangePass.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.pdb
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.exe.config
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.exe
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.pdb
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\bin\Debug\Guna.UI2.dll
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.dashboard.resources
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.ChangePass.resources
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Form1.resources
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.exe
+C:\Users\User\Documents\Zalo Received Files\EcoProject\EcoProject\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\bin\Debug\EcoProject.exe.config
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\bin\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\bin\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\bin\Debug\Guna.UI2.dll
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.ChangePass.resources
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\EcoProjectNam\EcoProject\EcoProject\obj\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.exe.config
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\bin\Debug\Guna.UI2.dll
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.ChangePass.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\EcoProject.exe.config
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\EcoProject.exe
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\EcoProject.pdb
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\Guna.UI2.dll
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.FogetPassword.ChangePass.resources
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.exe
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\obj\Debug\EcoProject.pdb
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\MailKit.dll
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\MimeKit.dll
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\System.Buffers.dll
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\System.Formats.Asn1.dll
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\System.Memory.dll
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\System.Numerics.Vectors.dll
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\System.ValueTuple.dll
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\MailKit.pdb
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\MailKit.xml
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\MailKit.dll.config
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\MimeKit.pdb
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\MimeKit.xml
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\MimeKit.dll.config
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\System.Buffers.xml
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\System.Formats.Asn1.xml
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\System.Memory.xml
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\System.Numerics.Vectors.xml
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code trong TDT\3rd year\CNPM\CK\design_eco\EcoProject\bin\Debug\System.ValueTuple.xml
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\EcoProject.exe.config
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\EcoProject.exe
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\EcoProject.pdb
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\BouncyCastle.Cryptography.dll
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\Guna.UI2.dll
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\MailKit.dll
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\MimeKit.dll
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\System.Buffers.dll
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\System.Formats.Asn1.dll
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\System.Memory.dll
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\System.Numerics.Vectors.dll
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\System.ValueTuple.dll
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\BouncyCastle.Cryptography.xml
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\MailKit.pdb
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\MailKit.xml
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\MailKit.dll.config
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\MimeKit.pdb
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\MimeKit.xml
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\MimeKit.dll.config
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\System.Buffers.xml
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\System.Formats.Asn1.xml
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\System.Memory.xml
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\System.Numerics.Vectors.xml
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\bin\Debug\System.ValueTuple.xml
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.FogetPassword.ChangePass.resources
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.Update_customer.resources
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.exe
+D:\DaiHoc\Nam3\HKI\CNPM\New folder\EcoProject\obj\Debug\EcoProject.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\EcoProject.exe.config
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\EcoProject.exe
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\EcoProject.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\BouncyCastle.Cryptography.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\Guna.UI2.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\MailKit.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\MimeKit.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\System.Buffers.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\System.Formats.Asn1.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\System.Memory.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\System.Numerics.Vectors.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\System.ValueTuple.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\BouncyCastle.Cryptography.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\MailKit.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\MailKit.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\MailKit.dll.config
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\MimeKit.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\MimeKit.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\MimeKit.dll.config
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\System.Buffers.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\System.Formats.Asn1.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\System.Memory.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\System.Numerics.Vectors.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\bin\Debug\System.ValueTuple.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.FogetPassword.ChangePass.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.Update_customer.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.exe
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\obj\Debug\EcoProject.Update_content.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\EcoProject.exe.config
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\EcoProject.exe
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\EcoProject.pdb
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\Guna.UI2.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\MailKit.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\MimeKit.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\System.Buffers.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\System.Formats.Asn1.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\System.Memory.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\System.Numerics.Vectors.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\System.ValueTuple.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\MailKit.pdb
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\MailKit.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\MailKit.dll.config
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\MimeKit.pdb
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\MimeKit.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\MimeKit.dll.config
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\System.Buffers.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\System.Formats.Asn1.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\System.Memory.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\System.Numerics.Vectors.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\bin\Debug\System.ValueTuple.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.Update_content.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.Update_customer.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.exe
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\BouncyCastle.Cryptography.dll
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\MailKit.dll
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\MimeKit.dll
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Buffers.dll
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Formats.Asn1.dll
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Memory.dll
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Numerics.Vectors.dll
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.ValueTuple.dll
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\BouncyCastle.Cryptography.xml
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\MailKit.pdb
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\MailKit.xml
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\MailKit.dll.config
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\MimeKit.pdb
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\MimeKit.xml
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\MimeKit.dll.config
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Buffers.xml
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Formats.Asn1.xml
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Memory.xml
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Numerics.Vectors.xml
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.ValueTuple.xml
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.Update_content.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.Update_customer.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\3rd\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.doi_mat_khau.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\BouncyCastle.Cryptography.dll
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\MailKit.dll
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\MimeKit.dll
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Buffers.dll
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Formats.Asn1.dll
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Memory.dll
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Numerics.Vectors.dll
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.ValueTuple.dll
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\BouncyCastle.Cryptography.xml
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\MailKit.pdb
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\MailKit.xml
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\MailKit.dll.config
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\MimeKit.pdb
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\MimeKit.xml
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\MimeKit.dll.config
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Buffers.xml
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Formats.Asn1.xml
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Memory.xml
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Numerics.Vectors.xml
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\bin\Debug\System.ValueTuple.xml
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.doi_mat_khau.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.Update_content.resources
+D:\DaiHoc\Nam3\HKI\CNPM\EcoProject\EcoProject\obj\Debug\EcoProject.Update_customer.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.exe.config
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.exe
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\EcoProject.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\BouncyCastle.Cryptography.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\Guna.UI2.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\MailKit.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\MimeKit.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\System.Buffers.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\System.Formats.Asn1.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\System.Memory.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\System.Numerics.Vectors.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\System.ValueTuple.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\BouncyCastle.Cryptography.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\MailKit.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\MailKit.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\MailKit.dll.config
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\MimeKit.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\MimeKit.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\MimeKit.dll.config
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\System.Buffers.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\System.Formats.Asn1.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\System.Memory.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\System.Numerics.Vectors.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\bin\Debug\System.ValueTuple.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.doi_mat_khau.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Update_content.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.Update_customer.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.exe
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject\EcoProject\obj\Debug\EcoProject.pdb
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject\obj\Debug\EcoProject.FogetPassword.doi_mat_khau.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\EcoProject.exe.config
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\EcoProject.exe
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\EcoProject.pdb
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Guna.UI2.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\MailKit.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\MimeKit.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Buffers.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Formats.Asn1.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Memory.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Numerics.Vectors.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.ValueTuple.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\MailKit.pdb
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\MailKit.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\MailKit.dll.config
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\MimeKit.pdb
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\MimeKit.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\MimeKit.dll.config
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Buffers.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Formats.Asn1.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Memory.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Numerics.Vectors.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.ValueTuple.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.Add_customer.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.Add_Orders.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.dashboard.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.FogetPassword.doi_mat_khau.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.Form1.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.Properties.Resources.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.Update_content.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.Update_customer.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_field_data_entry.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.csproj.Up2Date
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.exe
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\obj\Debug\EcoProject.pdb
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\FastTreeNative.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\LdaNative.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\CpuMathNative.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\MLModel1.mlnet
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\DynamicObj.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\FSharp.Core.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Core.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Data.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.DataView.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.FastTree.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.PCA.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Transforms.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Newtonsoft.Json.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Plotly.NET.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.CodeDom.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Collections.Immutable.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Data.SqlClient.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Numerics.Tensors.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Threading.Channels.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\DynamicObj.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\FSharp.Core.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Core.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Data.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.DataView.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.FastTree.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.PCA.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Transforms.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Newtonsoft.Json.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Plotly.NET.pdb
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\Plotly.NET.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Collections.Immutable.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Data.SqlClient.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Numerics.Tensors.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\System.Threading.Channels.xml
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\cs\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\de\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\es\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\fr\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\it\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\ja\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\ko\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\pl\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\ru\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\tr\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\CK\EcoProject_Truong_BI\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\FastTreeNative.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\LdaNative.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\CpuMathNative.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\MLModel1.mlnet
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\EcoProject.exe.config
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\EcoProject.exe
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\EcoProject.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\BouncyCastle.Cryptography.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\DynamicObj.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\FSharp.Core.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Guna.UI2.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\MailKit.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Core.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Data.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.DataView.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.FastTree.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.PCA.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Transforms.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\MimeKit.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Newtonsoft.Json.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Plotly.NET.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Buffers.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.CodeDom.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Collections.Immutable.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Data.SqlClient.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Formats.Asn1.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Memory.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Numerics.Tensors.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Numerics.Vectors.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Threading.Channels.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.ValueTuple.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\BouncyCastle.Cryptography.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\DynamicObj.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\FSharp.Core.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\MailKit.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\MailKit.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\MailKit.dll.config
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Core.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Data.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.DataView.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.FastTree.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.PCA.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Transforms.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\MimeKit.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\MimeKit.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\MimeKit.dll.config
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Newtonsoft.Json.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Plotly.NET.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\Plotly.NET.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Buffers.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Collections.Immutable.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Data.SqlClient.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Formats.Asn1.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Memory.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Numerics.Tensors.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Numerics.Vectors.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Threading.Channels.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\System.ValueTuple.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\cs\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\de\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\es\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\fr\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\it\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\ja\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\ko\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\pl\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\ru\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\tr\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.Add_customer.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.Add_Orders.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.dashboard.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.FogetPassword.doi_mat_khau.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.Form1.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.Properties.Resources.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.Update_content.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.Update_customer.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.csproj.Up2Date
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.exe
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khi_thai.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khong_khi.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_nuoc_mat.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.Nhap_lieu.hien_truong_khi_thai.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.hien_truong_khong_khi.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.Nhap_lieu.hien_truong_nuoc_mat.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.phan_tich_khi_thai.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.phan_tich_khong_khi.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject_Truong_BI\EcoProject_Truong_BI\obj\Debug\EcoProject.phan_tich_nuoc_mat.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.Add_customer.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.Add_Orders.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.dashboard.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.FogetPassword.doi_mat_khau.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.Form1.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khi_thai.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khong_khi.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_nuoc_mat.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.Nhap_lieu.hien_truong_khi_thai.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.hien_truong_khong_khi.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.Nhap_lieu.hien_truong_nuoc_mat.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.phan_tich_khi_thai.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.phan_tich_khong_khi.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.phan_tich_nuoc_mat.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.Properties.Resources.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.Update_content.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.Update_customer.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.exe
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\FastTreeNative.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\LdaNative.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\CpuMathNative.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\MLModel1.mlnet
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\EcoProject.exe.config
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\EcoProject.exe
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\EcoProject.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\BouncyCastle.Cryptography.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\DynamicObj.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\FSharp.Core.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Guna.UI2.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\itextsharp.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\MailKit.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Core.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Data.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.DataView.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.FastTree.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.PCA.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Transforms.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\MimeKit.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Newtonsoft.Json.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Plotly.NET.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Buffers.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.CodeDom.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Collections.Immutable.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Data.SqlClient.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Formats.Asn1.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Memory.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Numerics.Tensors.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Numerics.Vectors.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Threading.Channels.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.ValueTuple.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\BouncyCastle.Cryptography.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\DynamicObj.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\FSharp.Core.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\itextsharp.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\MailKit.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\MailKit.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\MailKit.dll.config
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Core.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Data.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.DataView.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.FastTree.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.PCA.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Microsoft.ML.Transforms.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\MimeKit.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\MimeKit.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\MimeKit.dll.config
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Newtonsoft.Json.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Plotly.NET.pdb
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\Plotly.NET.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Buffers.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Collections.Immutable.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Data.SqlClient.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Formats.Asn1.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Memory.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Numerics.Tensors.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Numerics.Vectors.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Threading.Channels.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\System.ValueTuple.xml
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\cs\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\de\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\es\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\fr\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\it\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\ja\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\ko\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\pl\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\ru\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\tr\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\Project_Final\EcoProject\EcoProject_Truong_BI\obj\Debug\EcoProject.csproj.Up2Date
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\FastTreeNative.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\LdaNative.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\CpuMathNative.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\MLModel1.mlnet
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\EcoProject.exe.config
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\EcoProject.exe
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\EcoProject.pdb
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\DynamicObj.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\FSharp.Core.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Guna.UI2.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\itextsharp.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\MailKit.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.Core.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.Data.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.DataView.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.FastTree.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.PCA.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.Transforms.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\MimeKit.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Newtonsoft.Json.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Plotly.NET.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Buffers.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.CodeDom.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Collections.Immutable.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Data.SqlClient.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Formats.Asn1.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Memory.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Numerics.Tensors.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Numerics.Vectors.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Threading.Channels.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.ValueTuple.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\DynamicObj.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\FSharp.Core.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\itextsharp.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\MailKit.pdb
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\MailKit.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\MailKit.dll.config
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.Core.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.Data.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.DataView.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.FastTree.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.PCA.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Microsoft.ML.Transforms.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\MimeKit.pdb
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\MimeKit.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\MimeKit.dll.config
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Newtonsoft.Json.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Plotly.NET.pdb
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\Plotly.NET.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Buffers.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Collections.Immutable.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Data.SqlClient.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Formats.Asn1.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Memory.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Numerics.Tensors.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Numerics.Vectors.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Threading.Channels.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\System.ValueTuple.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\cs\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\de\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\es\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\fr\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\it\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\ja\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\ko\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\pl\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\ru\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\tr\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.FogetPassword.doi_mat_khau.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khi_thai.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khong_khi.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_nuoc_mat.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.Nhap_lieu.hien_truong_khi_thai.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.hien_truong_khong_khi.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.Nhap_lieu.hien_truong_nuoc_mat.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.phan_tich_khi_thai.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.phan_tich_khong_khi.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.phan_tich_nuoc_mat.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.Update_content.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.Update_customer.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.exe
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject\obj\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\FastTreeNative.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\LdaNative.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\CpuMathNative.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\MLModel1.mlnet
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\EcoProject.exe.config
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\BouncyCastle.Cryptography.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\DynamicObj.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\FSharp.Core.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Guna.UI2.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\itextsharp.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\MailKit.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Core.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Data.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.DataView.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.FastTree.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.PCA.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Transforms.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\MimeKit.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Newtonsoft.Json.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Plotly.NET.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Buffers.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.CodeDom.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Collections.Immutable.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Data.SqlClient.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Formats.Asn1.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Memory.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Numerics.Tensors.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Numerics.Vectors.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Threading.Channels.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.ValueTuple.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\BouncyCastle.Cryptography.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\DynamicObj.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\FSharp.Core.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\itextsharp.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\MailKit.pdb
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\MailKit.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\MailKit.dll.config
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Core.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Data.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.DataView.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.FastTree.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.PCA.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Transforms.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\MimeKit.pdb
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\MimeKit.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\MimeKit.dll.config
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Newtonsoft.Json.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Plotly.NET.pdb
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\Plotly.NET.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Buffers.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Collections.Immutable.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Data.SqlClient.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Formats.Asn1.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Memory.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Numerics.Tensors.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Numerics.Vectors.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Threading.Channels.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\System.ValueTuple.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\cs\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\de\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\es\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\fr\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\it\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\ja\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\ko\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\pl\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\ru\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\tr\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.FogetPassword.doi_mat_khau.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khi_thai.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khong_khi.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_nuoc_mat.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Nhap_lieu.hien_truong_khi_thai.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.hien_truong_khong_khi.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Nhap_lieu.hien_truong_nuoc_mat.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.phan_tich_khi_thai.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.phan_tich_khong_khi.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.phan_tich_nuoc_mat.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Update_content.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Update_customer.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.pdb
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\FastTreeNative.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\LdaNative.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\CpuMathNative.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\MLModel1.mlnet
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\EcoProject.exe.config
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\EcoProject.exe
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\EcoProject.pdb
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\DynamicObj.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\FSharp.Core.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Guna.UI2.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\itextsharp.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\MailKit.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.Bcl.Numerics.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Core.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Data.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.DataView.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.FastTree.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.PCA.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Transforms.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\MimeKit.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Plotly.NET.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Buffers.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.CodeDom.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Formats.Asn1.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Memory.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Numerics.Tensors.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Threading.Channels.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.ValueTuple.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\DynamicObj.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\FSharp.Core.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\itextsharp.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\MailKit.pdb
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\MailKit.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\MailKit.dll.config
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.Bcl.Numerics.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Core.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Data.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.DataView.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.FastTree.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.PCA.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Transforms.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\MimeKit.pdb
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\MimeKit.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\MimeKit.dll.config
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Plotly.NET.pdb
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\Plotly.NET.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Buffers.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Formats.Asn1.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Memory.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Numerics.Tensors.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Threading.Channels.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\System.ValueTuple.xml
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.dashboard.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.FogetPassword.doi_mat_khau.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Form1.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khi_thai.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khong_khi.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_nuoc_mat.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Nhap_lieu.hien_truong_khi_thai.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.hien_truong_khong_khi.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Nhap_lieu.hien_truong_nuoc_mat.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.phan_tich_khi_thai.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.phan_tich_khong_khi.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.phan_tich_nuoc_mat.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Update_content.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Update_customer.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.exe
+C:\Users\ACER\Downloads\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\FastTreeNative.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\LdaNative.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\CpuMathNative.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\MLModel1.mlnet
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\EcoProject.exe.config
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\EcoProject.pdb
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\BouncyCastle.Cryptography.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\DynamicObj.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\FSharp.Core.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Guna.UI2.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\itextsharp.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\MailKit.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Core.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Data.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.DataView.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.FastTree.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.PCA.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Transforms.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\MimeKit.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Newtonsoft.Json.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Plotly.NET.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Buffers.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.CodeDom.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Collections.Immutable.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Data.SqlClient.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Formats.Asn1.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Memory.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Numerics.Tensors.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Numerics.Vectors.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Threading.Channels.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.ValueTuple.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\BouncyCastle.Cryptography.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\DynamicObj.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\FSharp.Core.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\itextsharp.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\MailKit.pdb
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\MailKit.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\MailKit.dll.config
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Core.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Data.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.DataView.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.FastTree.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.PCA.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Microsoft.ML.Transforms.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\MimeKit.pdb
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\MimeKit.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\MimeKit.dll.config
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Newtonsoft.Json.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Plotly.NET.pdb
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\Plotly.NET.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Buffers.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Collections.Immutable.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Data.SqlClient.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Formats.Asn1.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Memory.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Numerics.Tensors.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Numerics.Vectors.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Threading.Channels.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\System.ValueTuple.xml
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\cs\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\de\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\es\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\fr\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\it\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\ja\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\ko\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\pl\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\ru\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\tr\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.FogetPassword.doi_mat_khau.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khi_thai.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khong_khi.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_nuoc_mat.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Nhap_lieu.hien_truong_khi_thai.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.hien_truong_khong_khi.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Nhap_lieu.hien_truong_nuoc_mat.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.phan_tich_khi_thai.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.phan_tich_khong_khi.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.phan_tich_nuoc_mat.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Update_content.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.Update_customer.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.exe
+D:\3rd\HKI\CNPM\EcoProject_Version1_2\EcoProject_Version1.0\EcoProject\obj\Debug\EcoProject.pdb
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\FastTreeNative.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\LdaNative.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\CpuMathNative.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\MLModel1.mlnet
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\EcoProject.exe.config
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\EcoProject.exe
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\EcoProject.pdb
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\DynamicObj.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\FSharp.Core.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Guna.UI2.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\itextsharp.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\MailKit.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.Core.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.Data.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.DataView.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.FastTree.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.PCA.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.Transforms.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\MimeKit.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Newtonsoft.Json.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Plotly.NET.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Buffers.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.CodeDom.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Collections.Immutable.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Data.SqlClient.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Formats.Asn1.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Memory.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Numerics.Tensors.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Numerics.Vectors.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Threading.Channels.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.ValueTuple.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\DynamicObj.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\FSharp.Core.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\itextsharp.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\MailKit.pdb
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\MailKit.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\MailKit.dll.config
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.Core.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.Data.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.DataView.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.FastTree.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.PCA.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Microsoft.ML.Transforms.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\MimeKit.pdb
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\MimeKit.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\MimeKit.dll.config
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Newtonsoft.Json.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Plotly.NET.pdb
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\Plotly.NET.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Buffers.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Collections.Immutable.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Data.SqlClient.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Formats.Asn1.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Memory.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Numerics.Tensors.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Numerics.Vectors.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Threading.Channels.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\System.ValueTuple.xml
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\cs\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\de\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\es\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\fr\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\it\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\ja\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\ko\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\pl\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\ru\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\tr\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.FogetPassword.doi_mat_khau.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khi_thai.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khong_khi.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_nuoc_mat.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.Nhap_lieu.hien_truong_khi_thai.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.hien_truong_khong_khi.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.Nhap_lieu.hien_truong_nuoc_mat.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.phan_tich_khi_thai.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.phan_tich_khong_khi.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.phan_tich_nuoc_mat.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.Update_content.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.Update_customer.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.exe
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_1_3\EcoProject\obj\Debug\EcoProject.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\FastTreeNative.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\LdaNative.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\CpuMathNative.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\MLModel1.mlnet
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\EcoProject.exe.config
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\EcoProject.exe
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\EcoProject.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\BouncyCastle.Cryptography.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\DynamicObj.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\FSharp.Core.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Guna.UI2.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\itextsharp.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\MailKit.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.Core.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.Data.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.DataView.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.FastTree.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.PCA.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.Transforms.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\MimeKit.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Newtonsoft.Json.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Plotly.NET.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Buffers.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.CodeDom.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Collections.Immutable.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Data.SqlClient.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Formats.Asn1.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Memory.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Numerics.Tensors.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Numerics.Vectors.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Threading.Channels.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.ValueTuple.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\BouncyCastle.Cryptography.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\DynamicObj.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\FSharp.Core.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\itextsharp.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\MailKit.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\MailKit.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\MailKit.dll.config
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.Core.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.Data.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.DataView.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.FastTree.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.PCA.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Microsoft.ML.Transforms.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\MimeKit.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\MimeKit.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\MimeKit.dll.config
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Newtonsoft.Json.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Plotly.NET.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\Plotly.NET.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Buffers.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Collections.Immutable.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Data.SqlClient.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Formats.Asn1.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Memory.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Numerics.Tensors.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Numerics.Vectors.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Threading.Channels.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\System.ValueTuple.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\cs\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\de\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\es\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\fr\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\it\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\ja\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\ko\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\pl\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\ru\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\tr\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.Add_customer.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.Add_Orders.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.dashboard.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.FogetPassword.doi_mat_khau.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.Form1.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khi_thai.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khong_khi.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_nuoc_mat.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.Nhap_lieu.hien_truong_khi_thai.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.hien_truong_khong_khi.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.Nhap_lieu.hien_truong_nuoc_mat.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.phan_tich_khi_thai.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.phan_tich_khong_khi.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.phan_tich_nuoc_mat.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.Properties.Resources.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.Update_content.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.Update_customer.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.csproj.Up2Date
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.exe
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.4\EcoProject\obj\Debug\EcoProject.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\FastTreeNative.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\LdaNative.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\CpuMathNative.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\EcoProject.exe.config
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\EcoProject.exe
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\EcoProject.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\BouncyCastle.Cryptography.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\DynamicObj.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\FSharp.Core.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Guna.UI2.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\itextsharp.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\MailKit.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.Core.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.Data.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.DataView.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.FastTree.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.PCA.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.Transforms.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\MimeKit.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Newtonsoft.Json.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Plotly.NET.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Buffers.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.CodeDom.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Collections.Immutable.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Data.SqlClient.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Formats.Asn1.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Memory.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Numerics.Tensors.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Numerics.Vectors.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Threading.Channels.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.ValueTuple.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\BouncyCastle.Cryptography.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\DynamicObj.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\FSharp.Core.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\itextsharp.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\MailKit.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\MailKit.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\MailKit.dll.config
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.Core.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.Data.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.DataView.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.FastTree.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.PCA.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Microsoft.ML.Transforms.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\MimeKit.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\MimeKit.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\MimeKit.dll.config
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Newtonsoft.Json.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Plotly.NET.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\Plotly.NET.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Buffers.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Collections.Immutable.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Data.SqlClient.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Formats.Asn1.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Memory.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Numerics.Tensors.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Numerics.Vectors.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Threading.Channels.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\System.ValueTuple.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\cs\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\de\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\es\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\fr\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\it\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\ja\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\ko\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\pl\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\ru\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\tr\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.Add_customer.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.Add_Orders.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.dashboard.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.FogetPassword.doi_mat_khau.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.Form1.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khi_thai.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khong_khi.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_nuoc_mat.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.Nhap_lieu.hien_truong_khi_thai.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.hien_truong_khong_khi.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.Nhap_lieu.hien_truong_nuoc_mat.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.phan_tich_khi_thai.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.phan_tich_khong_khi.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.phan_tich_nuoc_mat.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.Properties.Resources.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.Update_content.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.Update_customer.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.csproj.Up2Date
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.exe
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.5\obj\Debug\EcoProject.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\FastTreeNative.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\LdaNative.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\CpuMathNative.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Database\QuanTracMoiTruong.mdf
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Database\QuanTracMoiTruong_log.ldf
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\EcoProject.exe.config
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\EcoProject.exe
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\EcoProject.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\BouncyCastle.Cryptography.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\DynamicObj.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\FSharp.Core.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Guna.UI2.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\itextsharp.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\MailKit.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.Core.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.Data.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.DataView.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.FastTree.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.PCA.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.Transforms.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\MimeKit.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Newtonsoft.Json.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Plotly.NET.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Buffers.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.CodeDom.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Collections.Immutable.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Data.SqlClient.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Formats.Asn1.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Memory.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Numerics.Tensors.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Numerics.Vectors.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Threading.Channels.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.ValueTuple.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\BouncyCastle.Cryptography.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\DynamicObj.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\FSharp.Core.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\itextsharp.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\MailKit.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\MailKit.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\MailKit.dll.config
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.Core.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.Data.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.DataView.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.FastTree.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.PCA.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Microsoft.ML.Transforms.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\MimeKit.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\MimeKit.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\MimeKit.dll.config
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Newtonsoft.Json.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Plotly.NET.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\Plotly.NET.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Buffers.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Collections.Immutable.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Data.SqlClient.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Formats.Asn1.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Memory.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Numerics.Tensors.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Numerics.Vectors.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Threading.Channels.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\System.ValueTuple.xml
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\cs\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\de\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\es\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\fr\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\it\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\ja\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\ko\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\pl\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\ru\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\tr\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.Add_customer.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.Add_Orders.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.dashboard.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.FogetPassword.doi_mat_khau.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.FogetPassword.FogetPass.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.Form1.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khi_thai.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_khong_khi.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.Nhap_lieu.chi_tieu_nuoc_mat.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.Nhap_lieu.hien_truong_khi_thai.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.hien_truong_khong_khi.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.Nhap_lieu.hien_truong_nuoc_mat.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.phan_tich_khi_thai.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.phan_tich_khong_khi.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.phan_tich_nuoc_mat.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.Properties.Resources.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.Update_content.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.Update_customer.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.user_control.uc_add_customer.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.user_control.uc_customer.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.user_control.uc_historyand_udit_log.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.user_control.uc_home.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.user_control.uc_lab_analysis_management1.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.user_control.uc_notifications.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.user_control.uc_order.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.user_control.uc_reports.resources
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.csproj.GenerateResource.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.csproj.Up2Date
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.exe
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.6\obj\Debug\EcoProject.pdb

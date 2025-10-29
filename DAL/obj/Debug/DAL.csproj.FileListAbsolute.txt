@@ -1,0 +1,72 @@
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.6.1\DAL\bin\Debug\DAL.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.6.1\DAL\bin\Debug\DAL.pdb
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.6.1\DAL\bin\Debug\DTO.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.6.1\DAL\bin\Debug\DTO.pdb
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.6.1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.6.1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.6.1\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.6.1\DAL\obj\Debug\DAL.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.6.1\DAL\obj\Debug\DAL.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer\DAL\bin\Debug\DAL.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer\DAL\bin\Debug\DAL.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer\DAL\bin\Debug\DTO.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer\DAL\bin\Debug\DTO.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer\DAL\obj\Debug\DAL.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer\DAL\obj\Debug\DAL.pdb
+D:\EcoProject_Version1.7_3Layer_Mẫu\DAL\bin\Debug\DAL.dll
+D:\EcoProject_Version1.7_3Layer_Mẫu\DAL\bin\Debug\DAL.pdb
+D:\EcoProject_Version1.7_3Layer_Mẫu\DAL\bin\Debug\DTO.dll
+D:\EcoProject_Version1.7_3Layer_Mẫu\DAL\bin\Debug\DTO.pdb
+D:\EcoProject_Version1.7_3Layer_Mẫu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\EcoProject_Version1.7_3Layer_Mẫu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\EcoProject_Version1.7_3Layer_Mẫu\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\EcoProject_Version1.7_3Layer_Mẫu\DAL\obj\Debug\DAL.dll
+D:\EcoProject_Version1.7_3Layer_Mẫu\DAL\obj\Debug\DAL.pdb
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.7_3Layer_Mẫu\DAL\bin\Debug\DAL.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.7_3Layer_Mẫu\DAL\bin\Debug\DAL.pdb
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.7_3Layer_Mẫu\DAL\bin\Debug\DTO.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.7_3Layer_Mẫu\DAL\bin\Debug\DTO.pdb
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.7_3Layer_Mẫu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.7_3Layer_Mẫu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.7_3Layer_Mẫu\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.7_3Layer_Mẫu\DAL\obj\Debug\DAL.dll
+D:\Code trong TDT\3rd year\CNPM\TienDo4\EcoProject_Version1.7_3Layer_Mẫu\DAL\obj\Debug\DAL.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer_Mẫu\DAL\bin\Debug\DAL.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer_Mẫu\DAL\bin\Debug\DAL.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer_Mẫu\DAL\bin\Debug\DTO.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer_Mẫu\DAL\bin\Debug\DTO.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer_Mẫu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer_Mẫu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer_Mẫu\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer_Mẫu\DAL\obj\Debug\DAL.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7_3Layer_Mẫu\DAL\obj\Debug\DAL.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7.1_3Layer_Mẫu\DAL\bin\Debug\DAL.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7.1_3Layer_Mẫu\DAL\bin\Debug\DAL.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7.1_3Layer_Mẫu\DAL\bin\Debug\DTO.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7.1_3Layer_Mẫu\DAL\bin\Debug\DTO.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7.1_3Layer_Mẫu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7.1_3Layer_Mẫu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7.1_3Layer_Mẫu\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7.1_3Layer_Mẫu\DAL\obj\Debug\DAL.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.7.1_3Layer_Mẫu\DAL\obj\Debug\DAL.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.8.0_3Layer_Mẫu\DAL\bin\Debug\DAL.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.8.0_3Layer_Mẫu\DAL\bin\Debug\DAL.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.8.0_3Layer_Mẫu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.8.0_3Layer_Mẫu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.8.0_3Layer_Mẫu\DAL\obj\Debug\DAL.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.8.0_3Layer_Mẫu\DAL\obj\Debug\DAL.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.9.0_3Layer_Mẫu\DAL\bin\Debug\DAL.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.9.0_3Layer_Mẫu\DAL\bin\Debug\DAL.pdb
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.9.0_3Layer_Mẫu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.9.0_3Layer_Mẫu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.9.0_3Layer_Mẫu\DAL\obj\Debug\DAL.dll
+D:\BT\Year 3\HK1\CNPM\EcoProject_Version1.9.0_3Layer_Mẫu\DAL\obj\Debug\DAL.pdb
+D:\BT\Year 3\HK1\CNPM\Final_Nộp\DAL\bin\Debug\DAL.dll
+D:\BT\Year 3\HK1\CNPM\Final_Nộp\DAL\bin\Debug\DAL.pdb
+D:\BT\Year 3\HK1\CNPM\Final_Nộp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\BT\Year 3\HK1\CNPM\Final_Nộp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\BT\Year 3\HK1\CNPM\Final_Nộp\DAL\obj\Debug\DAL.dll
+D:\BT\Year 3\HK1\CNPM\Final_Nộp\DAL\obj\Debug\DAL.pdb
